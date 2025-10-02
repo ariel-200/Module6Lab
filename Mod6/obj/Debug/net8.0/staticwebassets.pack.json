@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/Module6Lab/Mod6/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/workspaces/Module6Lab/Mod6/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Mod6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Mod6.props",
+      "PackagePath": "build\\Mod6.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Mod6.props",
+      "PackagePath": "buildMultiTargeting\\Mod6.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Mod6.props",
+      "PackagePath": "buildTransitive\\Mod6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
